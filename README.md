@@ -35,18 +35,5 @@ My free time I like to play.  <img src="https://img.shields.io/badge/Riot_Games-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   16 hrs 45 mins  ████████████████████▓░░░░   82.87 %
-JavaScript   2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-CSS          53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-```
-
-<!--END_SECTION:waka-->
-
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
