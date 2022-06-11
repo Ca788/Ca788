@@ -22,6 +22,31 @@ My free time I like to play.  <img src="https://img.shields.io/badge/Riot_Games-
 
 ## What I don't know, give me a few days, please! 😁
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=gui-loko&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/Ca788))
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/Ca788)
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   16 hrs 45 mins  ████████████████████▓░░░░   82.87 %
+JavaScript   2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+CSS          53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+```
+
+<!--END_SECTION:waka-->
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
