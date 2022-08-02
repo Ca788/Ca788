@@ -20,8 +20,6 @@ My free time I like to play.  <img src="https://img.shields.io/badge/Riot_Games-
 
 <img src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### Others: <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-
 ## What I don't know, give me a few days, please! 😁
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/Ca788)
