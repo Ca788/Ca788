@@ -4,19 +4,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-lima-59719b192/)](https://www.linkedin.com/in/carlos-lima-59719b192/)
 
 
-## About me:
+## Quem sou eu:
 
-I am a systems analysis and development student. :smile:
+Meu nome é Carlos Eduardo, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Possuo habilidades intermediárias em HTML, CSS, JavaScript e React, com ênfase em desenvolvimento front-end. Sou responsável e comprometido com meus objetivos, buscando sempre me atualizar e desenvolver minhas habilidades técnicas para atuar de forma eficiente na área de desenvolvimento web. Estou sempre disposto a aprender e trabalhar em projetos desafiadores, buscando contribuir para o sucesso da equipe.
 
-I study web programming by : <img src ="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 
-I Love code and create new stuff, my focus is to solve problems and expand my knowledge. 
-
-My free time I like to play.  <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
-
-## My specialties:
-
-### Languages: <img src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white/"> <img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+### Principais tecnologias: <img src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white/"> <img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 
 <img src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
