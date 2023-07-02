@@ -6,7 +6,7 @@
 
 ## Quem sou eu:
 
-Meu nome é Carlos Eduardo, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Possuo habilidades intermediárias em HTML, CSS, JavaScript e React, com ênfase em desenvolvimento front-end. Sou responsável e comprometido com meus objetivos, buscando sempre me atualizar e desenvolver minhas habilidades técnicas para atuar de forma eficiente na área de desenvolvimento web. Estou sempre disposto a aprender e trabalhar em projetos desafiadores, buscando contribuir para o sucesso da equipe.
+Estou em constante busca de aprimoramento para acompanhar as rápidas mudanças do mundo corporativo. Possuo habilidade em aprender rapidamente sobre o universo da tecnologia e sou reconhecido por minha excelente habilidade de relacionamento interpessoal, o que me permite me integrar facilmente em equipes de trabalho. Tenho uma mentalidade voltada para o aprendizado contínuo e estou sempre em busca de novos conhecimentos, especialmente aqueles que possam ser aplicados no dia a dia das atividades profissionais.
 
 
 ### Principais tecnologias:  <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
