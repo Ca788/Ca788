@@ -10,7 +10,8 @@ Estou em constante busca de aprimoramento para acompanhar as rápidas mudanças 
 I am constantly looking for improvement to keep up with the rapid changes in the corporate world. I have the ability to learn about the world of technology quickly and I am recognized for my excellent interpersonal skills, which allow me to integrate into work teams easily. I have a mentality focused on continuous learning and I am always searching for new knowledge, especially those that can be applied in my daily professional activities.
 
 
-### Minhas tecnologias:  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+### Minhas tecnologias: My technologies: 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
